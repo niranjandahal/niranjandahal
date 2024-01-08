@@ -2,10 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 * 🌍  I'm based in Nepal
-* 🖥️  Site
+
+
   [niranjandahal.me](http://niranjandahal.me)
 
   [niranjandahal.com.np](https://niranjandahal.com.np)
+  
 * ✉️  You can contact me at [niranjandahal76@gmail.com](mailto:niranjandahal76@gmail.com)
 
 ### Skills
