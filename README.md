@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [niranjandahal.me](http://niranjandahal.me)
 * ✉️  You can contact me at [niranjandahal76@gmail.com](mailto:niranjandahal76@gmail.com)
-* 🤝  I'm open to collaborating on interesting project
+[* 🤝  I'm open to collaborating on interesting project]
 
 ### Skills
 
