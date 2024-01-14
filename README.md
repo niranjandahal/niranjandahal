@@ -5,8 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
   [niranjandahal.com.np](https://niranjandahal.com.np)
 
-  [niranjandahal.me](http://niranjanda
-  hal.me)
+
+
 
   
 * ✉️  You can contact me at [niranjandahal76@gmail.com](mailto:niranjandahal76@gmail.com)
