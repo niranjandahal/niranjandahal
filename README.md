@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Niranjan Dahal
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Niranjan Dahal
 ======================================================================================================================================
 
 * 🌍  I'm based in Nepal
@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
   
-* ✉️  You can contact me at [niranjandahal76@gmail.com](mailto:niranjandahal76@gmail.com)
+* ✉️   contact address [niranjandahal76@gmail.com](mailto:niranjandahal76@gmail.com)
 
 ### Skills
 
