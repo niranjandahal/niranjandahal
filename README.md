@@ -2,13 +2,6 @@
 ======================================================================================================================================
 
 * 🌍  I'm based in Nepal
-
-  [niranjandahal.com.np](https://niranjandahal.com.np)
-
-
-
-
-  
 * ✉️   contact address [niranjandahal76@gmail.com](mailto:niranjandahal76@gmail.com)
 
 ### Skills
