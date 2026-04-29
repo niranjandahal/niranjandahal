@@ -1,14 +1,6 @@
-# Hey there 👋 I'm Niranjan Dahal
+# 👋 
+- 🎬 Creator of **[Flutter Tips](https://www.youtube.com/@fluttertip)**,
 
-I am a **Flutter Developer** and **Content Creator** focused on building scalable cross-platform applications. I specialize in Dart and have extensive experience with Firebase, state management, and integrating third-party SDKs for real-time features.
-
-### 👨‍💻 About Me
-- 🔭 Working as a **Flutter Developer** (Contract/Project-based).
-- 📚 Currently expanding my skills in **Backend Architectures** and **Blockchain Integration**.
-- 🎬 Creator of **[Flutter Tips](https://www.youtube.com/@fluttertip)**, where I share quick, actionable Flutter development insights.
-- ⚡ Fun fact: I enjoy pushing my limits in competitive Chess.
-
----
 
 ### 🛠 Languages and Tools
 <div align="left">
@@ -25,18 +17,6 @@ I am a **Flutter Developer** and **Content Creator** focused on building scalabl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
-**State Management:** Bloc, Provider, Riverpod, GetX  
-**Cloud & Tools:** Supabase, Azure, Google AdMob, ZegoCloud SDK
-
----
-
-### 🚀 Notable Projects
-* **[CBDC App](https://cbdc-flutter-app.vercel.app/)** – Digital wallet based on Blockchain (Hyperledger Fabric). *Research Grant Awarded.*
-* **[BaghChal Game](https://bhagchal.vercel.app/)** – Real-time multiplayer Nepali board game using Flutter & Firebase.
-* **[Home Service App](https://homeservice-eosin.vercel.app/)** – Dual-role marketplace connecting service providers and customers.
-* **[Disease Detection App](https://diseasedetection.vercel.app/)** – ML-powered app identifying plant/crop diseases using phone camera.
-
----
 
 ### 📊 My GitHub Stats
 <div align="center">
