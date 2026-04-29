@@ -1,6 +1,4 @@
-# 👋 
 - 🎬 Creator of **[Flutter Tips](https://www.youtube.com/@fluttertip)**,
-
 
 ### 🛠 Languages and Tools
 <div align="left">
