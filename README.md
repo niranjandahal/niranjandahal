@@ -1,67 +1,51 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Hey there 👋 I'm Niranjan Dahal
 
-###
+I am a **Flutter Developer** and **Content Creator** focused on building scalable cross-platform applications. I specialize in Dart and have extensive experience with Firebase, state management, and integrating third-party SDKs for real-time features.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+### 👨‍💻 About Me
+- 🔭 Working as a **Flutter Developer** (Contract/Project-based).
+- 📚 Currently expanding my skills in **Backend Architectures** and **Blockchain Integration**.
+- 🎬 Creator of **[Flutter Tips](https://www.youtube.com/@fluttertip)**, where I share quick, actionable Flutter development insights.
+- ⚡ Fun fact: I enjoy pushing my limits in competitive Chess.
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+### 🛠 Languages and Tools
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
-###
+**State Management:** Bloc, Provider, Riverpod, GetX  
+**Cloud & Tools:** Supabase, Azure, Google AdMob, ZegoCloud SDK
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+### 🚀 Notable Projects
+* **[CBDC App](https://cbdc-flutter-app.vercel.app/)** – Digital wallet based on Blockchain (Hyperledger Fabric). *Research Grant Awarded.*
+* **[BaghChal Game](https://bhagchal.vercel.app/)** – Real-time multiplayer Nepali board game using Flutter & Firebase.
+* **[Home Service App](https://homeservice-eosin.vercel.app/)** – Dual-role marketplace connecting service providers and customers.
+* **[Disease Detection App](https://diseasedetection.vercel.app/)** – ML-powered app identifying plant/crop diseases using phone camera.
 
+---
+
+### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjandahal&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
-###
+### 📫 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/niranjan-dahal-77463021a/" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+<a href="https://www.youtube.com/@fluttertip" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" /></a>
+<a href="mailto:niranjandahal76@gmail.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email" /></a>
+</p>
